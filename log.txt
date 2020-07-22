@@ -1,1 +1,39 @@
-error log
+git init
+git add . 
+git status
+git commit -m    (:wq) "scape"
+
+git push
+git pull
+git clone. 
+git rm --chached (file name)
+
+.git ignoren(file-name)
+(/dir2)
+(*.(file-name))
+
+git branch  (new-branch)
+git checkout (switch branches)
+git merge ( add tos master)
+
+git remote( {remote Add }  git push)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
