@@ -1,1 +1,3 @@
 log.txt
+# Local Netlify folder
+.netlify

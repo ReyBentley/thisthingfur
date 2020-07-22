@@ -1,4 +1,7 @@
-git init
+git init 
+ (Git remote add origin" git remote link " {git pull origin master})
+
+
 git add . 
 git status
 git commit -m    (:wq) "scape"
@@ -14,9 +17,14 @@ git rm --chached (file name)
 
 git branch  (new-branch)
 git checkout (switch branches)
-git merge ( add tos master)
+git merge ( add  "b"to master)
 
 git remote( {remote Add }  git push)
+
+
+
+git log (all commits)
+Git checkout (first 9 difgits of git log to revert version. "file name")
 
 
 
